@@ -4,8 +4,7 @@
 This project develops a geospatial framework and an interactive dashboard to optimise student access to mental health facilities in Munich. Specifically, it provides an assessment of the physical accessibility of International students at TUM to Mental Health Facilities. By transitioning from a baseline assessment to predictive routing, the analysis demonstrates a strategic increase in accessibility from **21% to 60%**. This framework is intended for implementation by TUM to ascertain the optimal locations for new facilities, informed by the concentration of student housing.
 
 ## 🔗 Live Interactive Dashboard
-[![Try it Out](assets/web_map_thumbnail.jpg)(https://experience.arcgis.com/experience/6
-846a9dd69524e4583bd262b8c0b92fe/)]
+[![Try it Out](assets/web_map_thumbnail.jpg)](https://experience.arcgis.com/experience/6846a9dd69524e4583bd262b8c0b92fe/)
 *Click to explore the web map allowing students to find the closest facility and aiding stakeholders in infrastructure planning.*
 
 ## Objectives
