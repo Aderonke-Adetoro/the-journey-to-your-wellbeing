@@ -1,14 +1,14 @@
 # The Journey to Your Wellbeing: Mental Health Accessibility Analysis
-*A geospatial analysis project developed at the Technical University of Munich (TUM) for the Cartography & Geoinformatics M.Sc. program.*
+*A geospatial analysis project developed at the Technical University of Munich (TUM) for the International Masters of Cartography program.*
 ## Project Overview
 This project develops a geospatial framework and an interactive dashboard to optimise student access to mental health facilities in Munich. Specifically, it provides an assessment of the physical accessibility of International students at TUM to Mental Health Facilities. By transitioning from a baseline assessment to predictive routing, the analysis demonstrates a strategic increase in accessibility from **21% to 60%**. This framework is intended for implementation by TUM to ascertain the optimal locations for new facilities, informed by the concentration of student housing.
 
 ## 🔗 Live Interactive Dashboard
 [![Try it Out](assets/web_map_thumbnail.jpg)](https://experience.arcgis.com/experience/6846a9dd69524e4583bd262b8c0b92fe/)
-*Click to explore the web map allowing students to find the closest facility and aiding stakeholders in infrastructure planning.*
+*Click the image to explore the web map allowing students to find the closest facility and aiding stakeholders in infrastructure planning.*
 
 ## Objectives
-The primary objective of this study was to evaluate the physical accessibility of existing mental health facilities for international students and to propose a framework for geographical infrastructure enhancement[cite: 5]. The core of our research asked a vital question: do existing mental health facilities truly offer accessibility to students with a maximum commute of 30 minutes? [cite: 23]
+The primary objective of this study was to evaluate the physical accessibility of existing mental health facilities for international students and to propose a framework for geographical infrastructure enhancement. The core of our research asked a vital question: do existing mental health facilities truly offer accessibility to students with a maximum commute of 30 minutes?
 
 ## Datasets Used
 * **International student private residences:** Primary data collected via ArcGIS Survey123.
