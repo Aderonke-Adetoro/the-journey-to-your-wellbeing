@@ -4,8 +4,8 @@
 This project develops a geospatial framework and an interactive dashboard to optimise student access to mental health facilities in Munich. Specifically, it provides an assessment of the physical accessibility of International students at TUM to Mental Health Facilities. By transitioning from a baseline assessment to predictive routing, the analysis demonstrates a strategic increase in accessibility from **21% to 60%**. This framework is intended for implementation by TUM to ascertain the optimal locations for new facilities, informed by the concentration of student housing.
 
 ## 🔗 Live Interactive Dashboard
-[![Experience Builder App](assets/web_map_thumbnail.jpg)](https://experience.arcgis.com/experience/6
-846a9dd69524e4583bd262b8c0b92fe/)
+[![Try it Out](assets/web_map_thumbnail.jpg)(https://experience.arcgis.com/experience/6
+846a9dd69524e4583bd262b8c0b92fe/)]
 *Click to explore the web map allowing students to find the closest facility and aiding stakeholders in infrastructure planning.*
 
 ## Objectives
@@ -40,9 +40,9 @@ These isochrones are the final export ingested into Experience Builder to create
 Our survey data include information on international students' nationalities and preferred languages. Although some facilities offer English services, many TUM international students in distress, particularly those from non-English speaking countries, would prefer to communicate in their native language. Consequently, our future strategy will focus on addressing the language gap among service providers and reducing wait times, which are significant obstacles for mental health services in Germany.
 
 ## 📚 References
-* Ansari Lari, S., Zumot, M. S., and Fredericks, S. (2025). Navigating mental health challenges in international university students: adapting to life transitions. *Frontiers in Psychiatry*, 16 (1574953). https://doi.org/10.3389/fpsyt.2025.1574953 [cite: 36, 37]
-* Xie, Q., Zhu, Y., Lin, T., Yin, Z., and Goldberg, S. (2024). Bridging the Mental Health Care Gap for International Students via Digital Interventions [Preprint] ResearchGate. https://doi.org/10.31234/osf.io/8b3j9 [cite: 38, 39]
-* Shek, C. H. M., Chan, S. W. C., Stubbs, M. A., and Lee, R. L. T. (2024). Promoting International Students' Mental Health Unmet Needs: An Integrative Review. *International Journal of Mental Health Promotion*. https://doi.org/10.32604/ijmhp.2024.055706 [cite: 40, 41]
+* Ansari Lari, S., Zumot, M. S., and Fredericks, S. (2025). Navigating mental health challenges in international university students: adapting to life transitions. *Frontiers in Psychiatry*, 16 (1574953). https://doi.org/10.3389/fpsyt.2025.1574953
+* Xie, Q., Zhu, Y., Lin, T., Yin, Z., and Goldberg, S. (2024). Bridging the Mental Health Care Gap for International Students via Digital Interventions [Preprint] ResearchGate. https://doi.org/10.31234/osf.io/8b3j9
+* Shek, C. H. M., Chan, S. W. C., Stubbs, M. A., and Lee, R. L. T. (2024). Promoting International Students' Mental Health Unmet Needs: An Integrative Review. *International Journal of Mental Health Promotion*. https://doi.org/10.32604/ijmhp.2024.055706
 
 ## Contributors
 * **[Aderonke M. Adetoro]** - [[let's connect](http://linkedin.com/in/adetoro-aderonke)]
